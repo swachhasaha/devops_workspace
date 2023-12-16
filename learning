@@ -1,4 +1,4 @@
-Rhel command for service of nfs
+Rhel command for service of nfs.
 systemctl start nfs-server
 systemctl stop nfs-server
 systemctl restart nfs-server
